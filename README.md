@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit.
-- 🌱 I’m currently a computer science student at BNM Institute of Technology, Bangalore. (8/2018 - 8/2022)
+- 🌱 I’m a computer science student at BNM Institute of Technology, Bangalore. (8/2018 - 8/2022)
 - 🙌 I am passionate about coding.
 - 👀 I’m interested in Data Science, Deep Learning and AR.
 - 💞️ I’m looking to collaborate on health related deep learning projects.
