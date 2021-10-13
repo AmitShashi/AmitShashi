@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Amit.
+- 🌱 I’m currently a computer science student at BNM Institute of Technology, Bangalore. (8/2018 - 8/2022)
 - 🙌 I am passionate about coding.
 - 👀 I’m interested in Data Science, Deep Learning and AR.
-- 🌱 I’m currently a computer science student at BNM Institute of Technology, Bangalore. (2022 Graduate)
 - 💞️ I’m looking to collaborate on health related deep learning projects.
-- 🎶 I love Music.
-- 📫 How to reach me -> well you can email me on amitshashi701@gmail.com
+- 💖 I love Music🎵 and Motivational Movies🎥.
+- 🎮 I love playing video games.
+- 🐱‍🏍 Humanity is at its best when we use our knowlegde for helping people.
+- 🐱‍🏍 Run to the rescue with love and peace will follow.
+- 📫 How to reach me -> i will be happy to receive email me on amitshashi701@gmail.com
 
 <!---
 AmitShashi/AmitShashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
