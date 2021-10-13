@@ -3,7 +3,7 @@
 - 🙌 I am passionate about coding.
 - 👀 I’m interested in Data Science, Deep Learning and AR.
 - 💞️ I’m looking to collaborate on health related deep learning projects.
-- 😃 I hove worked on personal projects like: Data Science, ML , Android App Devlopment, AR and Web Development.
+- 😃 I hove worked on personal projects like: Data Science, ML , Android App Devlopment, Game Development, AR and Web Development.
 - 💖 I love Music🎵 and Motivational Movies🎥.
 - 🎮 I love playing video games.
 - 🐱‍🏍 Humanity is at its best when we use our knowlegde for helping people.
