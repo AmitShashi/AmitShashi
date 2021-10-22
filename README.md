@@ -9,7 +9,7 @@
 - 🐱‍🏍 Humanity is at its best when we use our knowlegde for helping people.
 - 🐱‍🏍 Run to the rescue with love and peace will follow.
 - 📫 How to reach me -> i will be happy to receive email me on amitshashi701@gmail.com
-- 🌟My HackerRank Profile: https://bit.ly/3aAhxK0 (Java - 5🌟), (Problem Solving - 3🌟).
+- 🌟My HackerRank Profile: https://bit.ly/3aAhxK0 (Java - 5🌟), (Problem Solving - 3🌟),(Sql - 3🌟).
 <!---
 AmitShashi/AmitShashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
