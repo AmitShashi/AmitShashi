@@ -1,6 +1,6 @@
 
 - Email: amitshashi701@gmail.com
-- Leetcode Profile: shorturl.at/fivS0
+- Leetcode Profile: https://shorturl.at/fivS0
 - HackerRank Profile: https://bit.ly/3aAhxK0 (Java - 5🌟)
 - GFG coding profile : https://auth.geeksforgeeks.org/user/amit777/
 <!---
