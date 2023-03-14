@@ -1,6 +1,5 @@
 
 - Email: amitshashi701@gmail.com
-- HackerRank Profile: https://bit.ly/3aAhxK0
 - GFG coding profile : https://auth.geeksforgeeks.org/user/amit777/
 - Solved More than 200 coding questions combined on above platforms.
 <!---
