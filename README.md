@@ -9,7 +9,7 @@
 
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
+![ Today Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
 
 
