@@ -2,7 +2,7 @@
 - Email: amitshashi701@gmail.com
 - Leetcode: https://leetcode.com/DarkAndDark/ 
 - [FUN FACT: using same username and password everywhere inscreases chances of getting HACKED]
-[be safe!!! to avoid regretting later.]
+[be safe!]
 
 
 ![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
