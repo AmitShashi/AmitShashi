@@ -1,4 +1,3 @@
-## I am currently trying to solve an open source issue in A1111 repo... [15 apr 2023 - current]
 
 - Email: amitshashi701@gmail.com
 - Leetcode: https://leetcode.com/DarkAndDark/ 
