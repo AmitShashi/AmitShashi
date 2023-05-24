@@ -62,7 +62,7 @@ https://github.com/AmitShashi/AmitShashi/assets/73923245/86af6f86-8f9b-410e-b38b
 
 ## 📝 Blogs
 I love to share knowledge and learn from the community. Here are some blogs I have written:
-- [Medium Blogs](medium.com/@amitshashi701 )
+- [Medium Blogs](www.medium.com/@amitshashi701)
 
 ## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
