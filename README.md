@@ -1,5 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Amit Ranjan Shashi&fontSize=60)
-
+## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Amit-Ranjan-Shashi&fontSize=60)
 Hi, I'm Amit, a passionate and seasoned React.js developer. Here's a bit about me:
 
 - 📩 Email: amitshashi701@gmail.com
@@ -35,11 +34,22 @@ Here are some of the technologies I work with:
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
 </a> 
 
-🎒 In addition to these, I am familiar with Node.js, Webpack, Vite, jQuery, and TypeScript. I usually code in PyCharm, WebStorm, and IntelliJ IDEA. 
+In addition to these, I am familiar with:
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+And I usually code in:
+- ![PyCharm](https://img.shields.io/badge/PyCharm-00A2A2?style=for-the-badge&logo=pycharm&logoColor=white)
+- ![WebStorm](https://img.shields.io/badge/WebStorm-00A2A2?style=for-the-badge&logo=webstorm&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8C201E?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 
