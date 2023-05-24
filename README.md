@@ -4,6 +4,7 @@ Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Her
 
 - 📩 Email: amitshashi701@gmail.com
 - 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/) [Contest participated: 10, Ranking: top 42%]
+- 📺 YouTube: [Click here](https://www.youtube.com/@xeon789/)
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
 ![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
