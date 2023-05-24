@@ -18,74 +18,67 @@ currently editing come back later
 
 <ul>
     <li>
-      <a href="https://www.python.org/" rel="nofollow">
-          <img align="center" 
-               src="https://img.shields.io/badge/Python-3776AB?logo=Python&style=flat-square&logoColor=white" 
-               style="max-width:100%;">
-      </a>
-    </li>
-    <li>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-          <img align="center"
-                    src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&logoColor=black"
-                    style="max-width:100%;">
-      </a> 
-      <a href="https://www.typescriptlang.org/" rel="nofollow"><img
-                        align="center"
-                        src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&logoColor=white"
-                        style="max-width:100%;">
-      </a> 
+        <a href="https://www.python.org/" rel="nofollow">
+            <img align="center" src="https://img.shields.io/badge/Python-3776AB?logo=Python&style=flat-square&logoColor=white" style="max-width:100%;">
+        </a>
         <ul>
             <li>
-              <a href="https://www.jetbrains.com/webstorm/" rel="nofollow">
-              <img align="center"
-                        src="https://img.shields.io/badge/WebStorm-00A2A2?logo=WebStorm&style=flat-square&logoColor=white"
-                        style="max-width:100%;">
-              </a> 
-              <a href="https://nodejs.org/" rel="nofollow">
-              <img align="center"
-                        src="https://img.shields.io/badge/Node.js-339933?logo=Nodedotjs&style=flat-square&logoColor=white"
-                        style="max-width:100%;">
-              </a> 
-              <a href="https://www.npmjs.com/" rel="nofollow">
-                <img align="center"
-                        src="https://img.shields.io/badge/npm-CB3837?logo=npm&style=flat-square&logoColor=white"
-                        style="max-width:100%;"></a> 
-
-              <a href="https://webpack.js.org/" rel="nofollow">
-                <img
-                        align="center"
-                        src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&style=flat-square&logoColor=black"
-                        style="max-width:100%;">
-              </a> 
-              <a href="https://vitejs.dev/" rel="nofollow">
-                <img
-                        align="center"
-                        src="https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square&logoColor=white"
-                        style="max-width:100%;">
-              </a>
-          </li>
-            <li>
-              <a href="https://jquery.com/" rel="nofollow">
-                <img align="center"
-                        src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white"
-                        style="max-width:100%;">
-              </a> 
-          </li>
+                <a href="https://www.jetbrains.com/pycharm/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/PyCharm-006600?logo=PyCharm&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a> 
+                <a href="https://pypi.org/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a>
+            </li>
         </ul>
     </li>
     <li>
-        <a href="https://www.java.com/" rel="nofollow">
-          <img align="center"
-                    src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&style=flat-square&logoColor=white"
-                    style="max-width:100%;">
-      </a> 
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+            <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&logoColor=black" style="max-width:100%;">
+        </a> 
+        <a href="https://www.typescriptlang.org/" rel="nofollow">
+            <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&logoColor=white" style="max-width:100%;">
+        </a> 
         <ul>
-            <li><a href="https://www.jetbrains.com/idea/" rel="nofollow">
-              <img align="center"
-                        src="https://img.shields.io/badge/IDEA-8C201E?logo=IntelliJ%20IDEA&style=flat-square"
-                        style="max-width:100%;">
-          </li>
+            <li>
+                <a href="https://www.jetbrains.com/webstorm/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/WebStorm-00A2A2?logo=WebStorm&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a> 
+                <a href="https://nodejs.org/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/Node.js-339933?logo=Nodedotjs&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a> 
+                <a href="https://www.npmjs.com/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/npm-CB3837?logo=npm&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a> 
+                <a href="https://webpack.js.org/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&style=flat-square&logoColor=black" style="max-width:100%;">
+                </a> 
+                <a href="https://vitejs.dev/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a>
+            </li>
+            <li>
+                <a href="https://jquery.com/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a> 
+                <a href="https://vuejs.org/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=flat-square&logoColor=white" style="max-width:100%;">
+                </a>
+            </li>
+        </ul>
+    </li>
+    <li>
+    </li>
+    <li>
+        <a href="https://www.java.com/" rel="nofollow">
+            <img align="center" src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&style=flat-square&logoColor=white" style="max-width:100%;">
+        </a> 
+        <ul>
+            <li>
+                <a href="https://www.jetbrains.com/idea/" rel="nofollow">
+                    <img align="center" src="https://img.shields.io/badge/IDEA-8C201E?logo=IntelliJ%20IDEA&style=flat-square" style="max-width:100%;">
+                </a> 
+            </li>
         </ul>
     </li>
 </ul>
