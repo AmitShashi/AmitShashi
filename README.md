@@ -8,7 +8,6 @@ I am always ready to tackle exciting new challenges!
 
 - 📩 Email: amitshashi701@gmail.com
 - 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
-- 🚀 Github: 
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
 ![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
@@ -51,6 +50,19 @@ And I usually code in:
 - ![PyCharm](https://img.shields.io/badge/PyCharm-00A2A2?style=for-the-badge&logo=pycharm&logoColor=white)
 - ![WebStorm](https://img.shields.io/badge/WebStorm-00A2A2?style=for-the-badge&logo=webstorm&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8C201E?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+
+## 🔭 Projects
+- **Project Name**: 3D Notebook. [Link to Project](https://github.com/[YourUsername]/[YourProject])
+- **Project Name**: Magic Land 2. [Link to Project](https://github.com/[YourUsername]/[YourProject])
+
+https://github.com/AmitShashi/AmitShashi/assets/73923245/86af6f86-8f9b-410e-b38b-eeb241a64fbe
+
+ 
+
+## 📝 Blogs
+I love to share knowledge and learn from the community. Here are some blogs I have written:
+- [Medium Blogs](medium.com/@amitshashi701 )
 
 ## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
