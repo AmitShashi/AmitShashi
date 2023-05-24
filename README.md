@@ -42,6 +42,7 @@ In addition to these, I am familiar with:
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 And I usually code in:
+- ![Visual Studio Code (VSCode)](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 - ![PyCharm](https://img.shields.io/badge/PyCharm-00A2A2?style=for-the-badge&logo=pycharm&logoColor=white)
 - ![WebStorm](https://img.shields.io/badge/WebStorm-00A2A2?style=for-the-badge&logo=webstorm&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8C201E?style=for-the-badge&logo=intellijidea&logoColor=white)
