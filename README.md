@@ -12,4 +12,4 @@
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitshashi&hide=Jupyter Notebook)](https://github.com/amitshashi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitshashi&hide=JupyterNotebook)](https://github.com/amitshashi/github-readme-stats)
