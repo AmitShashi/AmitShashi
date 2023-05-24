@@ -8,14 +8,8 @@ I am always ready to tackle exciting new challenges!
 
 - 📩 Email: amitshashi701@gmail.com
 - 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
-- 🚀 Github: ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
-- <p>
-  🚀 Github: 
-  <a href="https://github.com/AmitShashi">
-    <img align="top" src="https://komarev.com/ghpvc/?username=AmitShashi">
-  </a>
-</p>
-
+- 🚀 Github: 
+- ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
 ![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
 
