@@ -59,7 +59,7 @@ I love to share knowledge and learn from the community. Here are some blogs I ha
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🔭 Projects
-- **Project Name**: 3D Notebook. [Link](https://[github.com/[YourUsername]/[YourProject]](https://amit-mynotebook.netlify.app/)
+- **Project Name**: 3D Notebook. [Link](https://amit-mynotebook.netlify.app/)
 - **Project Name**: Magic Land 2. [Link](https://play.google.com/store/apps/details?id=com.isoftstudios.magicland220)
 
 https://github.com/AmitShashi/AmitShashi/assets/73923245/c96df558-ffd6-40f9-95e1-d9cc8a85b1b5
