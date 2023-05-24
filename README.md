@@ -60,11 +60,12 @@ I love to share knowledge and learn from the community. Here are some blogs I ha
 
 <br/>
 Video 1: Magic Land 2
-https://github.com/AmitShashi/AmitShashi/assets/73923245/56fa6a8c-51ca-467f-8ae3-7fbcf9904812
+<br/>
+ https://github.com/AmitShashi/AmitShashi/assets/73923245/56fa6a8c-51ca-467f-8ae3-7fbcf9904812
 <br/>
 Video 2: 3d-web-development
 <br/>
-https://github.com/AmitShashi/AmitShashi/assets/73923245/6dc22542-ae7c-4f7b-a36e-07a1fedafbb7
+ https://github.com/AmitShashi/AmitShashi/assets/73923245/6dc22542-ae7c-4f7b-a36e-07a1fedafbb7
 
 
 
