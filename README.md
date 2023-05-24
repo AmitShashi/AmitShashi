@@ -2,7 +2,7 @@
 Hi, I'm Amit, a passionate and seasoned React.js developer. Here's a bit about me:
 
 - 📩 Email: amitshashi701@gmail.com
-- 👨‍💻 Leetcode: https://leetcode.com/DarkAndDark/
+- 👨‍💻 Leetcode: [Link](https://leetcode.com/DarkAndDark/)
 
 ![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
 
