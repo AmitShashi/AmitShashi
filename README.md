@@ -2,7 +2,7 @@
 Hi, I'm Amit, a passionate and seasoned React.js developer. Here's a bit about me:
 
 - 📩 Email: amitshashi701@gmail.com
-- 👨‍💻 Leetcode: [Link](https://leetcode.com/DarkAndDark/)
+- 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
 
 ![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
 
@@ -16,7 +16,7 @@ Hi, I'm Amit, a passionate and seasoned React.js developer. Here's a bit about m
   <img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
 </picture>
 
-Here are some of the technologies I work with:
+My technological skillset includes, but isn't limited to:
 
 <a href="https://reactjs.org/" rel="nofollow">
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width:100%;">
@@ -47,6 +47,7 @@ And I usually code in:
 - ![WebStorm](https://img.shields.io/badge/WebStorm-00A2A2?style=for-the-badge&logo=webstorm&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8C201E?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+## 😂 To Lighten Your Day...
 ## 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
