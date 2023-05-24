@@ -61,13 +61,8 @@ currently editing come back later
                 <a href="https://jquery.com/" rel="nofollow">
                     <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&style=flat-square&logoColor=white" style="max-width:100%;">
                 </a> 
-                <a href="https://vuejs.org/" rel="nofollow">
-                    <img align="center" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&style=flat-square&logoColor=white" style="max-width:100%;">
-                </a>
             </li>
         </ul>
-    </li>
-    <li>
     </li>
     <li>
         <a href="https://www.java.com/" rel="nofollow">
