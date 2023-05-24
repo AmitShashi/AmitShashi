@@ -56,7 +56,9 @@ And I usually code in:
 - **Project Name**: 3D Notebook. [Link to Project](https://github.com/[YourUsername]/[YourProject])
 - **Project Name**: Magic Land 2. [Link to Project](https://github.com/[YourUsername]/[YourProject])
 
-https://github.com/AmitShashi/AmitShashi/assets/73923245/86af6f86-8f9b-410e-b38b-eeb241a64fbe
+
+https://github.com/AmitShashi/AmitShashi/assets/73923245/c96df558-ffd6-40f9-95e1-d9cc8a85b1b5
+
 
  
 
