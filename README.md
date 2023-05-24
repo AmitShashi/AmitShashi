@@ -8,10 +8,9 @@ I am always ready to tackle exciting new challenges!
 
 - 📩 Email: amitshashi701@gmail.com
 - 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
+- 🚀 Github: ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
 ![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
 ## 🚀 Skills and Tools
 
@@ -54,82 +53,7 @@ And I usually code in:
 
 ## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-=========================================================================================================================================================================
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Amit-Ranjan-Shashi&fontSize=60)
-
-Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. 🚀
-
-I have built a myriad of projects using the latest JavaScript frameworks and libraries, and I am always ready to tackle exciting new challenges!
-
-<br/>
-
-- 📩 Email: amitshashi701@gmail.com
-- 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
-- 🚀 Github: ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
-
-<br/>
-
-![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
-
-## 🛠 Skills and Tools
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=default&langs_count=10&hide=Jupyter%20Notebook">
-  <img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
-</picture>
-
-<br/>
-
-My technological skillset includes, but isn't limited to:
-
-- React.js
-- JavaScript
-- Python
-- Java
-
-<br/>
-
-I'm also familiar with:
-
-- Node.js
-- Webpack
-- Vite
-- jQuery
-- TypeScript
-
-<br/>
-
-And I usually code in:
-
-- Visual Studio Code (VSCode)
-- PyCharm
-- WebStorm
-- IntelliJ IDEA
-
-<br/>
-
-## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
