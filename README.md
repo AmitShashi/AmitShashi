@@ -1,6 +1,7 @@
 ## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Amit-Ranjan-Shashi&fontSize=60)
 
 Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Here's a bit about me:
+<br/>
 I have built a myriad of projects using the latest JavaScript frameworks and libraries, and am always ready to tackle exciting new challenges!
 
 - 📩 Email: amitshashi701@gmail.com
