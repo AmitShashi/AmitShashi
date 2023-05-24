@@ -52,7 +52,5 @@ And I usually code in:
 - ![WebStorm](https://img.shields.io/badge/WebStorm-00A2A2?style=for-the-badge&logo=webstorm&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8C201E?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-## 😂 To Lighten Your Day...
-## 😂 Here is a random joke that'll make you laugh!
-
+## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
