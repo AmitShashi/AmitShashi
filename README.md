@@ -58,13 +58,11 @@ I love to share knowledge and learn from the community. Here are some blogs I ha
 - **Project Name**: 3D Notebook. [Link](https://amit-mynotebook.netlify.app/)
 - **Project Name**: Magic Land 2. [Link](https://play.google.com/store/apps/details?id=com.isoftstudios.magicland220)
 
-https://github.com/AmitShashi/AmitShashi/assets/73923245/c96df558-ffd6-40f9-95e1-d9cc8a85b1b5
+<br/>
+https://github.com/AmitShashi/AmitShashi/assets/73923245/56fa6a8c-51ca-467f-8ae3-7fbcf9904812
 <br/>
 3d-web-development:
 <br/>
-https://github.com/AmitShashi/AmitShashi/assets/73923245/ebef5707-dbfb-4cae-a5c9-1add53b236c3
-
-
 https://github.com/AmitShashi/AmitShashi/assets/73923245/6dc22542-ae7c-4f7b-a36e-07a1fedafbb7
 
 
