@@ -1,3 +1,60 @@
+Hi, I'm Amit, a passionate and seasoned React.js developer. Here's a bit about me:
+
+- 📩 Email: amitshashi701@gmail.com
+- 👨‍💻 Leetcode: https://leetcode.com/DarkAndDark/
+
+![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
+
+## 🚀 Skills and Tools
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=default&langs_count=10&hide=Jupyter%20Notebook">
+  <img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+</picture>
+
+Here are some of the technologies I work with:
+
+<a href="https://reactjs.org/" rel="nofollow">
+    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width:100%;">
+</a> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%;">
+</a> 
+
+<a href="https://www.python.org/" rel="nofollow">
+    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;">
+</a>
+
+<a href="https://www.java.com/" rel="nofollow">
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
+</a> 
+
+🎒 In addition to these, I am familiar with Node.js, Webpack, Vite, jQuery, and TypeScript. I usually code in PyCharm, WebStorm, and IntelliJ IDEA. 
+
+## 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===========================================================
 currently editing come back later
 - Email: amitshashi701@gmail.com
 - Leetcode: https://leetcode.com/DarkAndDark/
