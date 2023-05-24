@@ -61,6 +61,11 @@ I love to share knowledge and learn from the community. Here are some blogs I ha
 https://github.com/AmitShashi/AmitShashi/assets/73923245/c96df558-ffd6-40f9-95e1-d9cc8a85b1b5
 <br/>
 3d-web-development:
+<br/>
 https://github.com/AmitShashi/AmitShashi/assets/73923245/ebef5707-dbfb-4cae-a5c9-1add53b236c3
+
+
+https://github.com/AmitShashi/AmitShashi/assets/73923245/6dc22542-ae7c-4f7b-a36e-07a1fedafbb7
+
 
 
