@@ -19,19 +19,19 @@ Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Her
 
 My technological skillset includes, but isn't limited to:
 
-<a href="https://reactjs.org/" rel="nofollow">
+- <a href="https://reactjs.org/" rel="nofollow">
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width:100%;">
 </a> 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%;">
 </a> 
 
-<a href="https://www.python.org/" rel="nofollow">
+- <a href="https://www.python.org/" rel="nofollow">
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;">
 </a>
 
-<a href="https://www.java.com/" rel="nofollow">
+- <a href="https://www.java.com/" rel="nofollow">
     <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
 </a> 
 
