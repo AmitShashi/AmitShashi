@@ -3,7 +3,7 @@
 Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Here's a bit about me:
 
 - 📩 Email: amitshashi701@gmail.com
-- 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/) [Contest participated: 10, Ranking: top 42%]
+- 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
 - 📺 YouTube: |Xeon789| [Click here](https://www.youtube.com/@xeon789/)
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
@@ -47,18 +47,30 @@ And I usually code in:
  ![PyCharm](https://img.shields.io/badge/PyCharm-00A2A2?style=for-the-badge&logo=pycharm&logoColor=white)
  ![WebStorm](https://img.shields.io/badge/WebStorm-00A2A2?style=for-the-badge&logo=webstorm&logoColor=white)
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8C201E?style=for-the-badge&logo=intellijidea&logoColor=white)
+ 
+## 💼 Work Experience and Contributions
 
-## 📝 Blogs
-I love to share knowledge and learn from the community. Here are some blogs I have written:
-- [Medium Blogs](https://medium.com/@amitshashi701/)
-
-## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+- Active Open Source Contributor
+- Full-Stack Developer (Freelance)
+- Web Developer Intern at Cognizant
+- Full-Stack Developer Intern at Business Web Solutions
 
 ## 🔭 Projects
-- **Project Name**: 3D Notebook. [Link](https://amit-mynotebook.netlify.app/)
-- **Project Name**: Magic Land 2. [Link](https://play.google.com/store/apps/details?id=com.isoftstudios.magicland220)
-<br/>
+
+- **3D Notebook**: Developed a full-stack MERN application for note management, supporting CRUD operations and 3D interactive background. [Link](https://amit-mynotebook.netlify.app/)
+
+- **YouTube - Clone**: Replicated YouTube's user interface using React.js and Material UI. [Link](https://app.netlify.com/sites/amit-youtube/)
+
+- **ChatApp**: Engineered a real-time chat application using React.js and Firebase. [Link](https://app.netlify.com/sites/amit-donation-app/)
+
+- **Donation Platform**: Created a responsive donation platform using React.js, Stripe API, and CSS Grid. [Link](https://app.netlify.com/sites/amit-donation-app/)
+
+- **Magic Land 2 Game**: . [Link](https://play.google.com/store/apps/details?id=com.isoftstudios.magicland220)
+
+## 🏆 Achievements
+
+- Earned 6 badges and solved 300+ coding problems on Leetcode.
+- Ranked in the top 42% in a Leetcode coding competition.
 
 
 https://github.com/AmitShashi/AmitShashi/assets/73923245/e3feb5ca-877c-4901-9640-387ede7a0a41
@@ -66,5 +78,9 @@ https://github.com/AmitShashi/AmitShashi/assets/73923245/e3feb5ca-877c-4901-9640
 
 https://github.com/AmitShashi/AmitShashi/assets/73923245/7570761a-e570-46e1-a124-1cfcf8c00be0
 
+## 📝 Blogs
+I love to share knowledge and learn from the community. Here are some blogs I have written:
+- [Medium Blogs](https://medium.com/@amitshashi701/)
 
-
+## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
