@@ -72,10 +72,6 @@ And I usually code in:
 - Earned 6 badges and solved 300+ coding problems on Leetcode.
 - Ranked in the top 42% in a Leetcode coding competition.
 
-
-https://github.com/AmitShashi/AmitShashi/assets/73923245/e3feb5ca-877c-4901-9640-387ede7a0a41
-
-
 https://github.com/AmitShashi/AmitShashi/assets/73923245/7570761a-e570-46e1-a124-1cfcf8c00be0
 
 ## 📝 Blogs
