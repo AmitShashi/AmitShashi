@@ -13,9 +13,9 @@ Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Her
 ## 🚀 Skills and Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=default&langs_count=10&hide=Jupyter%20Notebook">
-  <img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=3&hide=java;Jupyter%20Notebook">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=default&langs_count=3&hide=java;Jupyter%20Notebook">
+  <img align="right" src="https://github-stats-vercel-inky.vercel.app/api/top-langs/?username=AmitShashi&layout=compact&theme=radical&langs_count=3&hide=java;Jupyter%20Notebook">
 </picture>
 
 My technological skillset includes, but isn't limited to:
