@@ -1,13 +1,14 @@
 ## ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Amit-Ranjan-Shashi&fontSize=60)
 
-Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Here's a bit about me:
+Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Here's a bit about me
 
 - 📩 Email: amitshashi701@gmail.com
-- 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
 - 📺 YouTube: |Xeon789| [Click here](https://www.youtube.com/@xeon789/)
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
 
-![leet](https://user-images.githubusercontent.com/73923245/232561950-c41b7cf0-c1c0-4ce4-9228-7bde81b19434.JPG)
+
+## 🏆 Achievements
+- Ranked in the top 31% in a Leetcode coding competition.- 👨‍💻 Leetcode: [Click here](https://leetcode.com/DarkAndDark/)
 
 ## 🚀 Skills and Tools
 
@@ -27,14 +28,6 @@ My technological skillset includes, but isn't limited to:
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%;">
 </a> 
 
-- <a href="https://www.python.org/" rel="nofollow">
-    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;">
-</a>
-
-- <a href="https://www.java.com/" rel="nofollow">
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width:100%;">
-</a> 
-
 In addition to these, I am familiar with:
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 - ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -44,33 +37,13 @@ In addition to these, I am familiar with:
 
 And I usually code in:
 - ![Visual Studio Code (VSCode)](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
- ![PyCharm](https://img.shields.io/badge/PyCharm-00A2A2?style=for-the-badge&logo=pycharm&logoColor=white)
- ![WebStorm](https://img.shields.io/badge/WebStorm-00A2A2?style=for-the-badge&logo=webstorm&logoColor=white)
- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-8C201E?style=for-the-badge&logo=intellijidea&logoColor=white)
  
 ## 💼 Work Experience and Contributions
-
-- Active Open Source Contributor
-- Full-Stack Developer (Freelance)
 - Web Developer Intern at Cognizant
 - Full-Stack Developer Intern at Business Web Solutions
 
 ## 🔭 Projects
-
-- **3D Notebook**: Developed a full-stack MERN application for note management, supporting CRUD operations and 3D interactive background. [Link](https://amit-mynotebook.netlify.app/)
-
-- **YouTube - Clone**: Replicated YouTube's user interface using React.js and Material UI. [Link](https://app.netlify.com/sites/amit-youtube/)
-
-- **ChatApp**: Engineered a real-time chat application using React.js and Firebase. [Link](https://app.netlify.com/sites/amit-donation-app/)
-
-- **Donation Platform**: Created a responsive donation platform using React.js, Stripe API, and CSS Grid. [Link](https://app.netlify.com/sites/amit-donation-app/)
-
-- **Magic Land 2 Game**: . [Link](https://play.google.com/store/apps/details?id=com.isoftstudios.magicland220)
-
-## 🏆 Achievements
-
-- Earned 6 badges and solved 300+ coding problems on Leetcode.
-- Ranked in the top 42% in a Leetcode coding competition.
+- [Link](https://amit-react-portfolio.netlify.app/)
 
 https://github.com/AmitShashi/AmitShashi/assets/73923245/7570761a-e570-46e1-a124-1cfcf8c00be0
 
