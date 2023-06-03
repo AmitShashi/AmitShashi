@@ -46,10 +46,3 @@ And I usually code in:
 - [Link](https://amit-react-portfolio.netlify.app/)
 
 https://github.com/AmitShashi/AmitShashi/assets/73923245/7570761a-e570-46e1-a124-1cfcf8c00be0
-
-## 📝 Blogs
-I love to share knowledge and learn from the community. Here are some blogs I have written:
-- [Medium Blogs](https://medium.com/@amitshashi701/)
-
-## 😂 To Lighten Your Day... Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
