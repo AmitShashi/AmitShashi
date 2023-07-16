@@ -8,7 +8,7 @@ Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Her
 
 
 ## 🏆 Achievements
-- Ranked in the top 31% in a Leetcode coding competition.- 👨‍💻 Leetcode: [Click here](https://leetcode.com/amitshashi)
+- 👨‍💻 Leetcode: [Click here](https://leetcode.com/amitshashi)
 
 ## 🚀 Skills and Tools
 
