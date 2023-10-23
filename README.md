@@ -39,6 +39,7 @@ And I usually code in:
 - ![Visual Studio Code (VSCode)](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
  
 ## 💼 Work Experience and Contributions
+- React Dev at PRMFincon
 - Web Developer Intern at Cognizant
 - Full-Stack Developer Intern at Business Web Solutions
 
