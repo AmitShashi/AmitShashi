@@ -3,12 +3,7 @@
 Hello, world! I'm Amit Shashi, a passionate and seasoned React.js developer. Here's a bit about me
 
 - 📩 Email: amitshashi701@gmail.com
-- 📺 YouTube: |Xeon789| [Click here](https://www.youtube.com/@xeon789/)
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=AmitShashi)
-
-
-## 🏆 Achievements
-- 👨‍💻 Leetcode: [Click here](https://leetcode.com/amitshashi)
 
 ## 🚀 Skills and Tools
 
@@ -41,9 +36,12 @@ And I usually code in:
 ## 💼 Work Experience and Contributions
 - React Dev at PRMFincon
 - Web Developer Intern at Cognizant
-- Full-Stack Developer Intern at Business Web Solutions
 
 ## 🔭 Projects
-- [Link](https://amit-react-portfolio.netlify.app/)
 
 https://github.com/AmitShashi/AmitShashi/assets/73923245/7570761a-e570-46e1-a124-1cfcf8c00be0
+
+- I just used few tools to showcase my skill in below simple 2d game.
+
+https://github.com/user-attachments/assets/5c81095a-6278-40aa-85bb-1c9f74c18380
+
